@@ -77,43 +77,31 @@ A correlation heatmap was created to evaluate how strongly assets moved together
 
 ### Technology Sector Outperformance
 
-AAPL and MSFT generated the strongest cumulative returns over the analysed period, significantly outperforming broader market exposure through SPY. This reflected sustained growth within the technology sector, strong investor confidence in large-cap technology firms, and increased demand for digital services and cloud infrastructure.
+AAPL and MSFT had the strongest cumulative returns over the period, reflecting the strength within the technology sector. This reflected growth within the technology sector, sustained investor confidence in major technology companies, and growing demand for digital and cloud based services.
 
-Technology equities also demonstrated rapid recovery following periods of market disruption, particularly after the COVID-19 market shock in early 2020.
+Technology also demonstrated rapid recovery following the periods of market disruption, mainly after the COVID-19 market shock in early 2020.
 
 ---
 
 ### Impact of COVID on Market Volatility
 
-One of the most significant observations within the analysis was the sharp increase in volatility during early 2020, corresponding with the onset of the COVID-19 pandemic and global financial market uncertainty.
+One of the most significant observations within this analysis was the sharp increase in volatility during early 2020, caused by the COVID-19 pandemic and global market uncertainty.
 
-All analysed assets experienced substantial increases in rolling volatility during this period, reflecting:
-- heightened investor uncertainty
+All analysed assets experienced increases in rolling volatility during this period, meaning:
+- increased investor uncertainty
 - economic shutdown concerns
-- supply chain disruption
+- supply chain disruptions
 - recession fears
-- rapid shifts in monetary and fiscal policy expectations
 
-Technology-focused equities recovered more quickly following the initial market disruption, supported by increased reliance on remote working, digital infrastructure, cloud computing, and online consumer activity.
+Technology focused equities recovered more quickly following the initial market disruption, which could be due increased reliance on remote working, digital infrastructure, cloud computing, and online consumer activity.
 
-Financial and energy equities displayed more cyclical behaviour and experienced greater sensitivity to macroeconomic conditions during the recovery period.
-
----
-
-### Diversification Effects Through SPY
-
-SPY displayed more stable long-term behaviour relative to individual equities due to its diversified exposure across the broader US equity market.
-
-Although SPY produced lower cumulative returns than the strongest-performing technology equities, its lower volatility profile highlighted the importance of diversification in reducing portfolio risk.
-
-This demonstrated one of the core principles of portfolio management:
-higher diversification generally reduces idiosyncratic company-specific risk.
+Financial and energy companies were more influenced by changing economic conditions during the recovery period, causing their stock prices to fluctuate more alongside the broader economy.
 
 ---
 
 ### Sector-Specific Behaviour
 
-JPM and XOM exhibited behaviour more heavily influenced by macroeconomic and sector-specific conditions.
+JPM and XOM exhibited behaviour more heavily influenced by economic and sector specific conditions.
 
 JPM's performance was closely linked to:
 - interest rate expectations
@@ -121,22 +109,12 @@ JPM's performance was closely linked to:
 - broader economic growth expectations
 
 XOM displayed stronger sensitivity to:
-- commodity price movements
+- price movements
 - oil market conditions
 - geopolitical developments
 - global energy demand
 
-This created distinct performance and volatility characteristics compared to technology equities.
-
----
-
-### Correlation & Diversification Analysis
-
-Correlation analysis showed that AAPL and MSFT maintained relatively high correlations with SPY, reflecting the significant influence of large-cap technology companies on broader market performance.
-
-XOM demonstrated lower correlations with technology-focused equities, suggesting potential diversification benefits from combining assets across multiple sectors.
-
-Lower correlations between assets are particularly important in portfolio construction because they can help reduce overall portfolio volatility during periods of market stress.
+This resulted in performance and volatility patterns that differed from those in technology equity. 
 
 ---
 
@@ -144,17 +122,15 @@ Lower correlations between assets are particularly important in portfolio constr
 
 The project includes the following visualisations:
 
-- Normalised Stock Performance
-- 30-Day Rolling Volatility
+- Stock Performance
+- 30-Day Volatility
 - Correlation Heatmap
-
-These visualisations were saved as PNG outputs and included within the project structure.
 
 ---
 
 ## Skills Demonstrated
 
-This project demonstrates practical experience in:
+This project demonstrates experience in:
 
 - Financial data analysis
 - Quantitative analysis
